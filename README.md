@@ -11,7 +11,7 @@ El sistema cumple con distintas reglas de negocio como la validación del DNI ú
 
 ## **Tecnologías Usadas**
 
-- **Java 11**
+- **Java 17**
 - **POO (Programación Orientada a Objetos)**
 - **UML** (Diagramas de clases)
 - **Maven** (para la gestión de dependencias)
@@ -21,14 +21,14 @@ El sistema cumple con distintas reglas de negocio como la validación del DNI ú
 
 ## **Funcionalidades**
 
-### Cliente
+### 👨‍💼 Cliente
 
 - Registro de un cliente con nombre, apellido, DNI y email.
 - El DNI es único para cada cliente.
 - El email debe tener un formato válido.
 - Un cliente puede tener varias cuentas bancarias.
 
-### Cuenta Bancaria
+### 💳 Cuenta Bancaria
 
 - El sistema permite abrir cuentas de tipo Ahorros o Corriente.
 - Se valida que el número de cuenta sea único.
