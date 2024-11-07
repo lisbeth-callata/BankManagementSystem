@@ -42,7 +42,7 @@ El sistema cumple con distintas reglas de negocio como la validación del DNI ú
 
 A continuación se muestra una imagen del diagrama UML:
 
-![Diagrama de Clases](https://github.com/user-attachments/assets/0708d417-4b61-4951-8c29-00441e3e63ea)  
+![Diagrama de Clases](https://github.com/user-attachments/assets/a266a896-0594-4035-a15d-05af63f50059)  
 
 ---
 
